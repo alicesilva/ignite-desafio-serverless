@@ -9,5 +9,3 @@ jspm_packages
 .webpack
 
 .dynamodb
-
-.nvmrc
